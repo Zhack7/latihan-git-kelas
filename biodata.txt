@@ -1,2 +1,3 @@
 Nama: Muhammad Ngainurrozaq
 NPM: 202557201065
+Prodi: Sistem Informasi
